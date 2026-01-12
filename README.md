@@ -1,13 +1,57 @@
-<h1 align="center">Hi 👋, I'm Ruchi Shah</h1>
-<h3 align="center">.Net Core - Azure - Azure AI - Angular</h3>
+# Hi there 👋, I'm Ruchi shah
 
-- 🌱 I’m currently learning **Microsoft - Azure AI - Agentic AI**
+**💼 15+ years of experience** in software development, leading projects, and delivering customer-facing solutions.  
+Specializing in **.NET Core full-stack development**, modernizing applications with **Angular, React**, and **Microsoft Azure**.
 
-- 📫 How to reach me **mail.shahruchi@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## 🔹 What I Do
+- Lead **full-stack development teams** and manage **customer-facing projects**  
+- Modernize legacy applications and migrate solutions to **Microsoft Azure**  
+- Build scalable and maintainable **web applications** using **.NET Core**, **Angular**, and **React**  
+- Collaborate closely with stakeholders to translate requirements into high-quality software  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
+
+## 💻 Tech Stack
+
+**Backend:**  
+![C#](https://img.shields.io/badge/.NET%20Core-239120?style=flat&logo=.net&logoColor=white)  
+![REST API](https://img.shields.io/badge/REST_API-0078D7?style=flat&logo=rest-api&logoColor=white)
+
+**Frontend:**  
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+
+**Cloud & DevOps:**  
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D7?style=flat&logo=microsoft-azure&logoColor=white)  
+![CI/CD](https://img.shields.io/badge/CI/CD-AAD600?style=flat&logo=azuredevops&logoColor=white)
+
+**Other Tools & Practices:**  
+- Git & GitHub  
+- Agile & Scrum  
+- Unit & Integration Testing  
+
+---
+
+## 🌟 Highlights
+- 15+ years in **software development** with leadership and hands-on coding experience  
+- Strong experience in **customer-facing roles**, translating business needs into tech solutions  
+- Modernized multiple enterprise applications to **cloud-native architectures**  
+- Mentored junior developers and led high-performing teams  
+
+---
+
+## 📂 GitHub Repositories (Suggested Structure)
+1. **Full-stack apps** (React/Angular + .NET Core backend)  
+2. **Cloud migration samples** (Azure)  
+3. **Reusable utilities & libraries** (C# / TypeScript)  
+4. **Open-source contributions** (if any)  
+
+---
+
+## ⚡ Fun Fact
+I love **bridging the gap between technology and business**, making complex systems simple and user-friendly.  
+
+---
